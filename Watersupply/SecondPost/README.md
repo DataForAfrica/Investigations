@@ -1,2 +1,5 @@
-# Investigations
-All code and data for @african_maps on instagram. Feel free to critique!
+# Exploration of Water Safety around the world.
+
+### Source: https://ourworldindata.org/
+
+Feel free to add critique! I'm no export Data Analyst
